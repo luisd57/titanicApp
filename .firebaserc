@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "titanicapp-266d2": {
+      "hosting": {
+        "titanic-ui": [
+          "titanicapp-266d2"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "titanicapp-266d2"
+  }
+}
