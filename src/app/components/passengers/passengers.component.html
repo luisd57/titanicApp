@@ -14,10 +14,9 @@
     <fa-icon [icon]="['fas', 'arrow-right-from-bracket']" class="text-xl mr-3 mb-2 flex-shrink-0 h-6 w-6"></fa-icon>
     Filter by Alive
   </button>
-
 </div>
 
-<div>
+<div class="flex justify-center">
   <canvas baseChart [type]="'pie'" 
     [datasets]="[{ data: currentChartData.data }]" 
     [labels]="currentChartData.labels"
