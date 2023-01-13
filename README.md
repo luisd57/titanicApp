@@ -1,4 +1,4 @@
-# TitanicUi
+# Titanic passengers app with Angular 15 and Firebase for 3WA.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
 
