@@ -1,4 +1,4 @@
-# Titanic passengers statistics with charts app developped with Angular 15 and Firebase for 3W Academy.
+# Titanic passengers statistics with charts app developped with Angular 15 and Firebase and Tailwind for 3W Academy.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
 
